@@ -4,7 +4,8 @@
 
 - 📓 Data Science Fellow at DS4A
 
-- 📈 I’m currently working on a group project to predict the best locations for international remittance business expansion in the United States.
+- 📈 I’m currently working on a research project focused in the effect of information about a complex agricultural supply chain 
+on consumers.
 
 - 🌱 I’m looking to collaborate on Market Analytics, Consumer Demand, and Agribusiness analysis projects.
 
