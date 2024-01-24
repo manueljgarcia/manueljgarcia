@@ -1,6 +1,6 @@
 ### Hi there, I'm Manuel! I am currently searching for new opportunities in the data analytics industry and academia 🏦
 
-- 📚 Applied Economics student @ TTU
+- 📚 Agricultural and Applied Economics student @ TTU
 
 - 📓 Data Science Fellow at DS4A
 
