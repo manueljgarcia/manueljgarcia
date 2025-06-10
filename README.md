@@ -1,12 +1,12 @@
-### Hi there, I'm Manuel! I am currently an agricultural economist working for Texas A&M AgriLife Extension Service.
+### Hi there, I'm Manuel!
 
 - 📚 PhD in Agricultural and Applied Economics student @ TTU
 
-- 📓 Data Science Fellow at DS4A
+- 📓 Extension Economist @ Texas A&M AgriLife Extension Service, Department of Agricultural Economics, Texas A&M University
 
-- 📈 I’m currently working on extension and research projects focused on 1) agribusiness resilience; 2) the effect of information on the agricultural supply chain on consumers; 3) agricultural demand analysis; 4) non-market valuation; 5) farm management
+- 📈 I’m currently working on extension, and research projects focused on 1) agribusiness resilience; 2) demand analysis; 3) non-market valuation; 4) farm management
 
-- 📫 You can reach me at: mjgarcia.gt@gmail.com
+- 📫 Reach me: manuel.garcia@ag.tamu.edu
 
 - 🤝 Connect with me: linkedin.com/in/manueljgarcia 
 
